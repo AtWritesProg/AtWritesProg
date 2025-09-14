@@ -1,6 +1,5 @@
 # 💫 About Me:
-# 👋 Yo, I’m Atherva 🦇  <br><br>- 🧑‍💻 Writing code to build cool stuff (and break it first)  <br>- 🔗 Training to be a blockchain & smart contract dev  <br>- ⚡ Currently playing with React, Blockchain & Solidity  <br>- I am Gryfindor Material
-<br>- 🍕 Powered by pizza, caffeine & late-night debugging  <br>
+# 👋 Yo, I’m Atherva 🦇  <br><br>- 🧑‍💻 Writing code to build cool stuff (and break it first)  <br>- 🔗 Training to be a blockchain & smart contract dev  <br>- ⚡ Currently playing with React, Blockchain & Solidity  <br>- I am Gryfindor Material<br>- 🍕 Powered by pizza, caffeine & late-night debugging  <br>
 
 
 ## 🌐 Socials:
