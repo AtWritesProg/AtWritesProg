@@ -53,16 +53,17 @@
 </div>
 
 ---
-
----
-
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=AtWritesProg&theme=monokai&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-readme-stats.vercel.app/api?username=AtWritesProg&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)  
+
+![](https://nirzak-streak-stats.vercel.app/?user=AtWritesProg&theme=shadow_green&hide_border=false)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtWritesProg&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 </div>
-
+---
 ---
 
 ## 🌱 Learning Journey
