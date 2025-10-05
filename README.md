@@ -42,14 +42,12 @@
 
 ### 🔗 Blockchain & Development Tools  
 <img src="https://skillicons.dev/icons?i=ethereum" />
-<img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" width="48" height="48" />
 <img src="https://avatars.githubusercontent.com/u/22263829?s=200&v=4" width="48" height="48" />
 <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" width="48" height="48" />
 
 ### 🚀 DevOps & Hosting  
 <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,git" />
 <img src="https://render.com/images/render-logo.svg" width="48" height="48" />
-
 </div>
 
 ---
